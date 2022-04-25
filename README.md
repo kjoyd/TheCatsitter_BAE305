@@ -5,9 +5,9 @@ This is the documentation and Online Design profile for the BAE 305 semester des
 
 # Design Description
 
-Circuit Design 
-
 Mechanic Design 
+
+Circuit Design 
 
 # Discussion of Design
 
