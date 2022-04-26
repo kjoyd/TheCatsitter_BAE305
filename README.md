@@ -37,7 +37,8 @@ The basis of this design was based on a gravity feeder with servo arm controllin
 
 All the STL files can be accessed in the Github repository. All of these parts were 3D printed using PLA on the Prusa 3D printers. The tubes both are complicated round designs that would be hard to 3D print like normal, so the pieces were sliced in half to print both sides separately and be attached with glue and a ¼” nut and bolt through the flange section. 
 
-The dispenser part is the main part of this design. The tube piece is that base that has 3 parts attached to it. This assembly rendering illustrates how this is connected: 
+The dispenser part is the main part of this design. The tube piece is that base that has 3 parts attached to it. This assembly rendering illustrates how this is connected.
+On top of this display, a 1" 0.156" deep magnet can be placed in the hole cutout of the food dispenser. 
 
 The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. This bottle will act as the treat holder.
 
@@ -57,6 +58,8 @@ To attach the treat dispenser, the piece was glued to fit flush into the circula
 The laser pointer was created with 2 mini servos, one controlling x- and y-axis and another servo attached to the first servo in the side controlling the z-axis of the laser pointer. The pointer is placed on the servo arm of the z-axis servo. This laser pointer is attached with electrical tape. The z-servo is attached to the xy-servo moving arm with hot melt glue. The xy-servo was attached via a 3D printed part found online. This STL file can be found in the model files labeled “laser_case”. The servo was glued to this case and the case was glued onto the left side of the box wall at about 2” in with the top of the servo case flush with the top of the box. There should be nothing inhibiting movement of either of the servo arms. 
 
 A breadboard with the 2 control buttons was placed in the rectangle cutout on the right side of the box. This hole was covered by tape so only the two buttons were visible and accessible. Other 2 breadboard and Arduino controllers were attached to the sides of the box using 3M Velco tape and electrical tape. All wires for each board were bundled together and extended using electrical tape. 
+
+Both bottles should be removable, and the box can optionally be painted. We painted our pet-friendly black and attached fun charms to bling it up. But this is purely cosmetic and completely optional. 
 
 Circuit Design 
 
