@@ -8,7 +8,6 @@ For the BAE 305 group project, the CatSitter was invented. The CatSitter is a co
 
 Materials used: 
 
-- 
 -	2- 1'x2' ¼” birch plywood sheets 
 -	1000g of Various colors of PLA 
 -	10- sticks of Hot melt glue
@@ -35,6 +34,7 @@ The basis of this design was based on a gravity feeder with servo arm controllin
 2.	The treat dispenser
 3.	The food holder
 4.	3 rotating plates 
+
 All the STL files can be accessed in the Github repository. All of these parts were 3D printed using PLA on the Prusa 3D printers. The tubes both are complicated round designs that would be hard to 3D print like normal, so the pieces were sliced in half to print both sides separately and be attached with glue and a ¼” nut and bolt through the flange section. 
 
 
