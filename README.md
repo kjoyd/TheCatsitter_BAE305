@@ -37,6 +37,19 @@ The basis of this design was based on a gravity feeder with servo arm controllin
 
 All the STL files can be accessed in the Github repository. All of these parts were 3D printed using PLA on the Prusa 3D printers. The tubes both are complicated round designs that would be hard to 3D print like normal, so the pieces were sliced in half to print both sides separately and be attached with glue and a ¼” nut and bolt through the flange section. 
 
+The dispenser part is the main part of this design. The tube piece is that base that has 3 parts attached to it. This assembly rendering illustrates how this is connected: 
+
+The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. 
+The plates were designed to attach perfectly onto the head of the servo and be attached to the side of the treat dispenser and the food dispenser via glue and tape to secure them into place. They were attached in a way that would not inhibit the movement of the plate in any way and were sitting in the slot of their designated design. 
+
+
+
+A box constructed of ¼” birch plywood. A design was created in Illustrator to be exported to the laser cutter to laser cut the wood. Other types of wood and plywood can be used but be careful as most woods do not work well in the laser cutter due to fumes and unsafe materials being burnt. 
+
+The box was constructed of 2 12”x8” sides, a 12”x8.5” base, a front and back of 8”x8”, a top consisting of 3 pieces that are connected with a hinge, and a middle 8”x8” piece that holds that adds structure to the feeder. The illustration below shows the design of the box. All pieces were attached using standard wood glue and clamps to hold the pieces together while they dry. The middle section and the top were not added until later to ensure all the 3D printed pieces were in place. 
+
+Once the box was constructed, the 3D printed parts could be attached. The food dispenser tube could be attached with hot melt glue to the front piece along with the middle piece, wedging both sides into it. The front of the tube should fit flush with the front wood piece. Now what this piece is in place, the top can be assembled on top using wood glue and clamps. These pieces were spaced out and attached in the same way they are designed in the Illustrator file. 
+To attach the treat dispenser, the piece was glued to fit flush into the circular hole cut out in the left side piece. The top was also glued to the top sectional piece, with the hole matching up with the slot in the treat dispenser. 
 
 
 
