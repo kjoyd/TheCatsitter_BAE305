@@ -84,6 +84,10 @@ The void loop in the laser code has a list of different servo positions that mov
 
 
 # Discussion of Design
+### Measuring Design
+There is a lot that goes into this device. The main food drop mechanism is one that is based off of gravity. This system uses the speed of a servo arm to precisely measure the amount of food that the pet is given access to. This amount can vary based on the delay set in the code for the servo arm. The amount dropped will vary from example to example, so the delay in the code is specific to this design to measure what is desired. If the same design is used with the same parts, this should replicate perfectly. The benefit of this mechanism is that it is easy to control and has the preciseness for our needs. This feeder does not need to be extremely precise. The food should be within a 1/16th of a cup, and this system allows for that much precision. This design could improve in precision by using stronger and more precise motors. 
+Another servo is attached to the front plate for the food to sit in that slot until it is time to deliver the food. This servo is designed to stay closed and open when the food from the measuring plate is dropped in the tube. This arm rotates about 10 seconds after the food is dispensed. This system was designed with cat psychology in mind. If the cat got used to hearing the first arm going off, they may get too excited and attack the machine since the food has not come out yet. With the second arm, the cat will not attack the machine since that second arm they will associate with food rather than the first one. This also makes the design more insect repellent by having an extra boundary between the environments and the food. 
+The treat feeder was designed in a similar way. The design is simpler by not including a base servo to control when the tube is open of closed. This makes for a better design, as the base plate would be overkill on such a small part and would not fit nicely into the box. 
 
 # Testing Description
 
