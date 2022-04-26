@@ -18,6 +18,13 @@ For the BAE 305 group project, the CatSitter was invented. The CatSitter is a co
 -	2- 1” hinges with screws 
 -	2- ¼” nut and bolts
 -	Electical tape
+-	2- push buttons attachable to a breadboard
+-	5- mini-servos 
+-	20- jumper wires
+-	3- buzzers attachable to a breadboard
+-	3- RedBoard Arduino controllers
+-	3- 2"x3.5" breadboards
+-	6" of 3M Velco tape
 
 ## Special tools used: 
 -	Glue gun
