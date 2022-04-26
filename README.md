@@ -54,7 +54,9 @@ The box was constructed of 2 12”x8” sides, a 12”x8.5” base, a front and 
 Once the box was constructed, the 3D printed parts could be attached. The food dispenser tube could be attached with hot melt glue to the front piece along with the middle piece, wedging both sides into it. The front of the tube should fit flush with the front wood piece. Now what this piece is in place, the top can be assembled on top using wood glue and clamps. These pieces were spaced out and attached in the same way they are designed in the Illustrator file. 
 To attach the treat dispenser, the piece was glued to fit flush into the circular hole cut out in the left side piece. The top was also glued to the top sectional piece, with the hole matching up with the slot in the treat dispenser. 
 
+The laser pointer was created with 2 mini servos, one controlling x- and y-axis and another servo attached to the first servo in the side controlling the z-axis of the laser pointer. The pointer is placed on the servo arm of the z-axis servo. This laser pointer is attached with electrical tape. The z-servo is attached to the xy-servo moving arm with hot melt glue. The xy-servo was attached via a 3D printed part found online. This STL file can be found in the model files labeled “laser_case”. The servo was glued to this case and the case was glued onto the left side of the box wall at about 2” in with the top of the servo case flush with the top of the box. There should be nothing inhibiting movement of either of the servo arms. 
 
+A breadboard with the 2 control buttons was placed in the rectangle cutout on the right side of the box. This hole was covered by tape so only the two buttons were visible and accessible. Other 2 breadboard and Arduino controllers were attached to the sides of the box using 3M Velco tape and electrical tape. All wires for each board were bundled together and extended using electrical tape. 
 
 Circuit Design 
 
