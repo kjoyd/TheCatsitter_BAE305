@@ -32,7 +32,7 @@ Mechanic Design:
 The basis of this design was based on a gravity feeder with servo arm controlling the amount of food that would exit the feed holder. This piece of design will be how food is measured and is controlled by a delay. To execute this design, many specific pieces where designed. The mechanic design was 3D modeled using OnShape online. There were 6 parts that were designed and modeled by hand. There include: 
 1.	The feed dispenser
 2.	The treat dispenser
-3.	The food holder
+3.	The food holder base
 4.	3 rotating plates 
 
 All the STL files can be accessed in the Github repository. All of these parts were 3D printed using PLA on the Prusa 3D printers. The tubes both are complicated round designs that would be hard to 3D print like normal, so the pieces were sliced in half to print both sides separately and be attached with glue and a ¼” nut and bolt through the flange section. 
