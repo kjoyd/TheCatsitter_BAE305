@@ -40,7 +40,7 @@ All the STL files can be accessed in the Github repository. All of these parts w
 The dispenser part is the main part of this design. The tube piece is that base that has 3 parts attached to it. This assembly rendering illustrates how this is connected.
 ![Assembly 1](https://user-images.githubusercontent.com/102251593/165393820-82d2c84a-5e47-40f7-9d0c-e028c64fae9d.png)
 
-On top of this display, a 1" 0.156" deep magnet can be placed in the hole cutout of the food dispenser. 
+Inside the food dispenser tube, a 1" 0.156" deep magnet can be placed in the hole cutout once the 2 halves are attached to each other. 
 
 The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. This bottle will act as the treat holder.
 
