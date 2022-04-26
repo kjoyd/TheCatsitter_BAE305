@@ -8,8 +8,8 @@ For the BAE 305 group project, the CatSitter was invented. The CatSitter is a co
 
 Materials used: 
 
--	2- 1'x2' ¼” birch plywood sheets 
--	1000g of Various colors of PLA 
+-	3- 1'x2' ¼” birch plywood sheets 
+-	500g of Various colors of PLA 
 -	10- sticks of Hot melt glue
 -	2- 1" diameter magnets
 -	Wood glue
@@ -39,7 +39,10 @@ All the STL files can be accessed in the Github repository. All of these parts w
 
 The dispenser part is the main part of this design. The tube piece is that base that has 3 parts attached to it. This assembly rendering illustrates how this is connected: 
 
-The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. 
+The treat dispenser works the same as the food dispenser but on a smaller and similar scale. The treat plate fills in the slot in the treat dispenser and has the same functionality as the food feeder. Additionally, the whole small water bottle was used. The top had the center cut out but the screw sides still in tack, and that piece would glue into the tube enough so the water bottle could fulling screw into place. About 1” down from the top of the water bottle was cut almost 80% around, leaving a bit connected to have the top still attached to the bottle. This bottle will act as the treat holder.
+
+The food holder is attached similarly, but slightly different. The base was 3D printed to have a 2L attach to it and a magnet in the round cut out on the flat edge. A 1" magnet of depth 0.156" was hot met glued into this slot. A 2L had 2 inches from the opening of the bottle removed and 0.5" slots cut vertically fron this cut. These edges were seperated out and hot melt glued onto the base piece. The bottom of the bottle was completely cut off about 4" down. This will be used as a top, but is now removable. Then 4 pea-sized glue nubs were melted into place to secure the top. 
+
 The plates were designed to attach perfectly onto the head of the servo and be attached to the side of the treat dispenser and the food dispenser via glue and tape to secure them into place. They were attached in a way that would not inhibit the movement of the plate in any way and were sitting in the slot of their designated design. 
 
 
